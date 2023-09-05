@@ -5,25 +5,36 @@
 
 <p align="left"> <a href="https://twitter.com/duskorsl" target="blank"><img src="https://img.shields.io/twitter/follow/duskorsl?logo=twitter&style=for-the-badge" alt="duskorsl" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
 
-- 📫 You can reach me **vokic.dusko@gmail.com**
+  <h3 align="left">⚡ A Few Interesting Facts at the beginning.</h3>
+  
+:arrow_right: *I'm a graduate from the Faculty of Theology and University of Hospitality.*
 
-- ⚡ ***A Few Interesting Facts at the beginning.***
-- *I'm a graduate from the Faculty of Theology and University of Hospitality.*
-- *I'm Coming From Serbia.*
-- *I am not interested in goals if they are not for the benefit of people.*
-- *I will be happy to help anyone at any time.*
-- *I’m currently learning JavaScript.*
 
-<h3 align="left">Connect with me:</h3>
+:arrow_right: *I'm Coming From  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/32px-Flag_of_Serbia.svg.png"> 
+ Serbia.*
+
+
+:arrow_right: *I am not interested in goals if they are not for the benefit of people.*
+
+
+:arrow_right: *I will be happy to help anyone at any time.*
+
+
+:arrow_right: *I’m currently learning JavaScript*
+
+
+:arrow_right: *You can reach me vokic.dusko@gmail.com*
+
+
+<h3 align="left">⚡ Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/duskorsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duskorsl" height="30" width="40" /></a>
 <a href="https://fb.com/duskorsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duskorsl" height="30" width="40" /></a>
 <a href="https://instagram.com/duskorsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duskorsl" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚡ Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 
