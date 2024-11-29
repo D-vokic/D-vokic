@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://duskovokic.com/)
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> There, I'm Dusko Vokic</h1>
-<h3 align="center">A passionate frontend developer from Serbia</h3>
+<h3 align="center">A passionate Frontend / Bash developer from Serbia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/duskorsl" target="blank"><img src="https://img.shields.io/twitter/follow/duskorsl?logo=twitter&style=for-the-badge" alt="duskorsl" /></a> </p>
