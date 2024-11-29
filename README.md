@@ -21,7 +21,7 @@
 :arrow_right: *I will be happy to help anyone at any time.*
 
 
-:arrow_right: *I’m currently learning JavaScript*
+:arrow_right: *I’m currently learning React*
 
 
 :arrow_right: *You can reach me vokic.dusko@gmail.com*
