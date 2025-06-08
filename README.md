@@ -90,6 +90,12 @@ Here are some standout projects from my GitHub portfolio:
 
 </a> <a href=""> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white " alt="vscode" width="120" height="40"/> </a> <a href=""> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom" width="120" height="40"/> </a> <a href=""> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack" width="120" height="40"/> </a> <a href=""> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="xammp" width="120" height="40"/> </a> <a href=""> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" width="120" height="40"/> </a> <a href=""> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" width="120" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-vokic&show_icons=true&locale=en&layout=compact" alt="d-vokic" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-vokic&show_icons=true&locale=en" alt="d-vokic" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-vokic&" alt="d-vokic" /></p>
+
 - **Front-End**: HTML5, CSS3, Sass, JavaScript (ES6+)
 - **Automation**: Bash scripting on Linux environments
 - **Dev Workflow**: Git version control, VS Code
