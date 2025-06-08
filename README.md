@@ -121,6 +121,12 @@ Here are some standout projects from my GitHub portfolio:
 
 ## 📫 Connect with Me
 
+<p align="left">
+<a href="https://twitter.com/duskorsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duskorsl" height="30" width="40" /></a>
+<a href="https://fb.com/duskorsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duskorsl" height="30" width="40" /></a>
+<a href="https://instagram.com/duskorsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duskorsl" height="30" width="40" /></a>
+</p>
+
 - 🔗 [LinkedIn](https://www.linkedin.com/in/Duskorsl/)
 - 📬 Email: vokic.dusko@gmail.com
 
