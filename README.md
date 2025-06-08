@@ -47,3 +47,74 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-vokic&show_icons=true&locale=en" alt="d-vokic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-vokic&" alt="d-vokic" /></p>
+
+# 👋 Hi there! I'm Duško Vokić (D-vokic)
+
+🎯 **Front-End Developer | Test Technician @ Lenovo (Hungary) | Former Teacher | Father, Grandpa & Lifelong Learner**
+
+---
+
+## 🚀 What I'm All About
+
+- 📍 Based in Hungary, originally from Serbia
+- 💻 Currently working on modern web apps and automation tools
+- 🌱 Passionate about HTML, CSS/Sass, JavaScript, and shell scripting
+- 🧠 I hold a degree in Theology and Hospitality, plus years of teaching experience
+- 🌟 I believe in making tools and code that benefit people
+
+---
+
+## 💼 Featured Projects
+
+Here are some standout projects from my GitHub portfolio:
+
+| Project                              | Description                                                                                              |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **Interactive Banking UI**           | Educational web application that simulates basic online banking features, built with plain JavaScript.   |
+| **Interactive Bank Website**         | Modern, responsive demo of a banking website, featuring: Modal window, Smooth scrolling...               |
+| **Custom Countdown Timer**           | A flexible timer built with HTML, CSS, JS. Set your own time, theme, pause/reset controls.               |
+| **Sign-In Form**                     | A secure, responsive sign-in system using Sass and ES6 features—you can register, login, reset password. |
+| **Light/Dark Mode App**              | A clean example of theme toggling—adaptable UI for day and night viewing.                                |
+| **Awesome Music Player**             | A minimalistic music player with play/pause, track skip, progress bar.                                   |
+| **HouseWorkers & Startup Web Pages** | Simple yet polished HTML/CSS pages showing layout and Sass proficiency.                                  |
+
+---
+
+## 🛠 Tech Stack & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash)
+
+- **Front-End**: HTML5, CSS3, Sass, JavaScript (ES6+)
+- **Automation**: Bash scripting on Linux environments
+- **Dev Workflow**: Git version control, VS Code
+- **Learning**: React, REST APIs, complex UI patterns
+
+---
+
+## 🌟 Why This Matters
+
+- I build **useful, accessible web tools** that make daily life easier
+- With a background in education, I focus on **clean, maintainable code**
+- I enjoy **learning new technologies** and sharing knowledge with others
+
+---
+
+## 📈 What’s Next
+
+- 🧩 Diving into **React & more advanced JavaScript frameworks**
+- 🛠 Building **end-to-end projects**: REST APIs, automation pipelines, dashboards
+- 🤝 Collaborating on interesting open-source and community-driven projects
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/Duskorsl/)
+- 📬 Email: vokic.dusko@gmail.com
+
+---
+
+⭐ If you like my work, feel free to ⭐ star my repositories or reach out for collaboration!
+
