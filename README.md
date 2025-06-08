@@ -22,7 +22,7 @@ Here are some standout projects from my GitHub portfolio:
 
 | Project                              | Description                                                                                              |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| **Interactive Banking UI**           | Educational web application that simulates basic online banking features, built with plain JavaScript.   |
+| **[Interactive Banking UI](https://d-vokic.github.io/interactive-banking-ui/)**           | Educational web application that simulates basic online banking features, built with plain JavaScript.   |
 | **Interactive Bank Website**         | Modern, responsive demo of a banking website, featuring: Modal window, Smooth scrolling...               |
 | **Custom Countdown Timer**           | A flexible timer built with HTML, CSS, JS. Set your own time, theme, pause/reset controls.               |
 | **Sign-In Form**                     | A secure, responsive sign-in system using Sass and ES6 features—you can register, login, reset password. |
