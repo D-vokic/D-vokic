@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://duskovokic.com/)
 
-# 👋 Hi there! I'm Duško Vokić (D-vokic)
+# 👋 Hi there! I'm Dusko Vokic (D-vokic)
 
 🎯 **Front-End Developer | Test Technician @ Lenovo (Hungary) | Former Teacher | Father, Grandpa & Lifelong Learner**
 
