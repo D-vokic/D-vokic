@@ -22,6 +22,7 @@ Here are some standout projects from my GitHub portfolio:
 
 | Project                              | Description                                                                                              |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **[Personal Portfolio](https://dusko-portfolio.netlify.app/)**           | Final work in Meta Advanced React course).   |
 | **[WhereAmI](https://d-vokic.github.io/WhereAmI-geolocation-app/)**           | JavaScript web application that shows the country details based on geographic coordinates (latitude and longitude).   |
 | **[Interactive Banking UI](https://d-vokic.github.io/interactive-banking-ui/)**           | Educational web application that simulates basic online banking features, built with plain JavaScript.   |
 | **[Interactive Bank Website](https://d-vokic.github.io/Bank-Website-Demo/)**         | Modern, responsive demo of a banking website, featuring: Modal window, Smooth scrolling...               |
