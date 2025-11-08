@@ -22,15 +22,14 @@ Here are some standout projects from my GitHub portfolio:
 
 | Project                              | Description                                                                                              |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| **[Personal Portfolio](https://dusko-portfolio.netlify.app/)**           | Portfolio website developed as the final project for the Meta Advanced React Course.   |
-| **[WhereAmI](https://d-vokic.github.io/WhereAmI-geolocation-app/)**           | JavaScript web application that shows the country details based on geographic coordinates (latitude and longitude).   |
-| **[Interactive Banking UI](https://d-vokic.github.io/interactive-banking-ui/)**           | Educational web application that simulates basic online banking features, built with plain JavaScript.   |
-| **[Interactive Bank Website](https://d-vokic.github.io/Bank-Website-Demo/)**         | Modern, responsive demo of a banking website, featuring: Modal window, Smooth scrolling...               |
-| **[Custom Countdown Timer](https://d-vokic.github.io/Custom-Countdown-Timer/)**           | A flexible timer built with HTML, CSS, JS. Set your own time, theme, pause/reset controls.               |
-| **[Sign-In Form](https://d-vokic.github.io/Sign-in-form/)**                     | A secure, responsive sign-in system using Sass and ES6 features—you can register, login, reset password. |
-| **[Light/Dark Mode App](https://d-vokic.github.io/Light-Dark-Mode-App/)**              | A clean example of theme toggling—adaptable UI for day and night viewing.                                |
-| **[Awesome Music Player](https://d-vokic.github.io/Awesome-Music-Player/)**             | A minimalistic music player with play/pause, track skip, progress bar.                                   |
-| **[HouseWorkers & Startup Web Pages](https://d-vokic.github.io/HouseWorkers-project/)** | Simple yet polished HTML/CSS pages showing layout and Sass proficiency.                                  |
+| **[Tic Tac Toe React App]( https://tic-tac-toe-dusko.netlify.app/)**  |  A modern and interactive Tic Tac Toe game built with React and Vite. |
+| **[Little Lemon – Reserve a Table](https://booking-table-project.netlify.app/)** |  A React-based restaurant booking app developed as part of the Meta Front-End Developer Capstone Project. |
+| **[Personal Portfolio](https://dusko-portfolio.netlify.app/)** | Portfolio website developed as the final project for the Meta Advanced React Course. |
+| **[WhereAmI](https://d-vokic.github.io/WhereAmI-geolocation-app/)** | JavaScript web application that shows the country details based on geographic coordinates (latitude and longitude). |
+| **[Interactive Banking UI](https://d-vokic.github.io/interactive-banking-ui/)** | Educational web application that simulates basic online banking features, built with plain JavaScript. |
+| **[Interactive Bank Website](https://d-vokic.github.io/Bank-Website-Demo/)** | Modern, responsive demo of a banking website, featuring: Modal window, Smooth scrolling... |
+| **[Custom Countdown Timer](https://d-vokic.github.io/Custom-Countdown-Timer/)** | A flexible timer built with HTML, CSS, JS. Set your own time, theme, pause/reset controls. |
+| **[Sign-In Form](https://d-vokic.github.io/Sign-in-form/)** | A secure, responsive sign-in system using Sass and ES6 features—you can register, login, reset password. |
 
 ---
 
