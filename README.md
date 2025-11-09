@@ -22,7 +22,8 @@ Here are some standout projects from my GitHub portfolio:
 
 | Project                              | Description                                                                                              |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| **[Tic Tac Toe React App]( https://tic-tac-toe-dusko.netlify.app/)**  |  A modern and interactive Tic Tac Toe game built with React and Vite. |
+| **[Tic Tac Toe Classic React App](https://tic-tac-toe-dusko.netlify.app/)**  |  A modern and interactive Tic Tac Toe game built with React and Vite. |
+| **[Tic Tac Toe Future React App](https://tic-tac-toe-future.netlify.app/)**  |  A futuristic React-based Tic-Tac-Toe game with a neon design and responsive interface. |
 | **[Little Lemon – Reserve a Table](https://booking-table-project.netlify.app/)** |  A React-based restaurant booking app developed as part of the Meta Front-End Developer Capstone Project. |
 | **[Personal Portfolio](https://dusko-portfolio.netlify.app/)** | Portfolio website developed as the final project for the Meta Advanced React Course. |
 | **[WhereAmI](https://d-vokic.github.io/WhereAmI-geolocation-app/)** | JavaScript web application that shows the country details based on geographic coordinates (latitude and longitude). |
