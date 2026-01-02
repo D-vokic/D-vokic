@@ -22,6 +22,7 @@ Here are some standout projects from my GitHub portfolio:
 
 | Project                              | Description                                                                                              |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **[React Quiz Engine](https://react-quiz-engine.netlify.app/)**  |  A clean and scalable quiz engine built with React. |
 | **[Tic Tac Toe Classic React App](https://tic-tac-toe-dusko.netlify.app/)**  |  A modern and interactive Tic Tac Toe game built with React and Vite. |
 | **[Tic Tac Toe Future React App](https://tic-tac-toe-future.netlify.app/)**  |  A futuristic React-based Tic-Tac-Toe game with a neon design and responsive interface. |
 | **[Little Lemon – Reserve a Table](https://booking-table-project.netlify.app/)** |  A React-based restaurant booking app developed as part of the Meta Front-End Developer Capstone Project. |
