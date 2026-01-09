@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Dusko Vokic (D-vokic)
 
-🎯 **Front-End Developer | Test Technician @ Lenovo (Hungary) | Former Teacher | Father, Grandpa & Lifelong Learner**
+**Front-End Developer | Test Technician @ Lenovo (Hungary) | Former Teacher | Father, Grandpa & Lifelong Learner**
 
 ---
 
