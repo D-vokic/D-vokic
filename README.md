@@ -78,7 +78,7 @@ Currently improving in:
 
 For repositories and recent activity, visit the profile directly:
 
-[D-vokic](https://github.com/D-vokic)  
+- [D-vokic](https://github.com/D-vokic)  
 ---
 
 ## Contact
