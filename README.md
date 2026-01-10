@@ -51,7 +51,12 @@ Here are some standout projects from my GitHub portfolio:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash)
 
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-vokic&show_icons=true&layout=compact" height="145" />&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=d-vokic&show_icons=true" height="145" /> </p> <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-vokic" height="145" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-vokic&show_icons=true&locale=en&layout=compact" alt="d-vokic" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-vokic&show_icons=true&locale=en" alt="d-vokic" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-vokic&" alt="d-vokic" /></p>
+
 
 ---
 ## What I’m Learning & Building Next
