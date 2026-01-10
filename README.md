@@ -6,13 +6,13 @@
 
 ---
 
-## What I'm All About
+## About Me
 
 - Based in Hungary, originally from Serbia
 - Currently working on modern web apps and automation tools
-- Passionate about HTML, CSS/Sass, JavaScript, and shell scripting
-- I hold a degree in Theology and Hospitality, plus years of teaching experience
-- I believe in making tools and code that benefit people
+- Passionate about HTML, CSS/Sass, JavaScript, React & Bash scripting
+- Degree in Theology & Hospitality, + years of teaching experience
+- Strong belief in making useful, accessible software for real people
 
 ---
 
@@ -22,56 +22,50 @@ Here are some standout projects from my GitHub portfolio:
 
 | Project                              | Description                                                                                              |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| **[React Quiz Engine](https://react-quiz-engine.netlify.app/)**  |  A clean and scalable quiz engine built with React. |
-| **[Tic Tac Toe Classic React App](https://tic-tac-toe-dusko.netlify.app/)**  |  A modern and interactive Tic Tac Toe game built with React and Vite. |
-| **[Tic Tac Toe Future React App](https://tic-tac-toe-future.netlify.app/)**  |  A futuristic React-based Tic-Tac-Toe game with a neon design and responsive interface. |
-| **[Little Lemon – Reserve a Table](https://booking-table-project.netlify.app/)** |  A React-based restaurant booking app developed as part of the Meta Front-End Developer Capstone Project. |
-| **[Personal Portfolio](https://dusko-portfolio.netlify.app/)** | Portfolio website developed as the final project for the Meta Advanced React Course. |
-| **[WhereAmI](https://d-vokic.github.io/WhereAmI-geolocation-app/)** | JavaScript web application that shows the country details based on geographic coordinates (latitude and longitude). |
-| **[Interactive Banking UI](https://d-vokic.github.io/interactive-banking-ui/)** | Educational web application that simulates basic online banking features, built with plain JavaScript. |
-| **[Interactive Bank Website](https://d-vokic.github.io/Bank-Website-Demo/)** | Modern, responsive demo of a banking website, featuring: Modal window, Smooth scrolling... |
-| **[Custom Countdown Timer](https://d-vokic.github.io/Custom-Countdown-Timer/)** | A flexible timer built with HTML, CSS, JS. Set your own time, theme, pause/reset controls. |
-| **[Sign-In Form](https://d-vokic.github.io/Sign-in-form/)** | A secure, responsive sign-in system using Sass and ES6 features—you can register, login, reset password. |
+| **[React Quiz Engine](https://react-quiz-engine.netlify.app/)**  |  Scalable React quiz engine with dynamic settings. |
+| **[Tic Tac Toe Classic React App](https://tic-tac-toe-dusko.netlify.app/)**  |  Minimalist React Tic-Tac-Toe. |
+| **[Tic Tac Toe Future React App](https://tic-tac-toe-future.netlify.app/)**  |  A futuristic Neon-themed, responsive React Tic-Tac-Toe. |
+| **[Little Lemon – Reserve a Table](https://booking-table-project.netlify.app/)** |  Booking flow app for Meta Front-End Capstone. |
+| **[Personal Portfolio](https://dusko-portfolio.netlify.app/)** | Meta Advanced React course project. |
+| **[WhereAmI](https://d-vokic.github.io/WhereAmI-geolocation-app/)** | Country lookup via coordinates. |
+| **[Interactive Banking UI](https://d-vokic.github.io/interactive-banking-ui/)** | Browser-based banking simulation in JS. |
+| **[Interactive Bank Website](https://d-vokic.github.io/Bank-Website-Demo/)** | Responsive bank landing page with UI demos. |
+| **[Custom Countdown Timer](https://d-vokic.github.io/Custom-Countdown-Timer/)** | Flexible timer with themes and controls. |
+| **[Sign-In Form](https://d-vokic.github.io/Sign-in-form/)** | Auth simulation with ES6 + Sass. |
 
 ---
 
 ## Tech Stack & Tools
 
+### Frontend:
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&utm_source=chatgpt.com) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&utm_source=chatgpt.com) 
+
+### Automation:
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux) 
+
+### Workflow & Tools:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash)
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-
-</a> <a href=""> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white " alt="vscode" width="120" height="40"/> </a> <a href=""> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom" width="120" height="40"/> </a> <a href=""> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack" width="120" height="40"/> </a> <a href=""> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="xammp" width="120" height="40"/> </a> <a href=""> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" width="120" height="40"/> </a> <a href=""> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" width="120" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-vokic&show_icons=true&locale=en&layout=compact" alt="d-vokic" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-vokic&show_icons=true&locale=en" alt="d-vokic" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-vokic&" alt="d-vokic" /></p>
-
-- **Front-End**: HTML5, CSS3, Sass, JavaScript (ES6+)
-- **Automation**: Bash scripting on Linux environments
-- **Dev Workflow**: Git version control, VS Code
-- **Learning**: React, REST APIs, complex UI patterns
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-vokic&show_icons=true&layout=compact" height="145" />&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=d-vokic&show_icons=true" height="145" /> </p> <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-vokic" height="145" /> </p>
 
 ---
+## What I’m Learning & Building Next
 
-## Why This Matters
-
-- I build **useful, accessible web tools** that make daily life easier
-- With a background in education, I focus on **clean, maintainable code**
-- I enjoy **learning new technologies** and sharing knowledge with others
-
+- Advanced React patterns & REST APIs
+- Small end-to-end projects and dashboards
+- Automation with shell scripting
+- Open-source contributions & collaboration
 ---
+## Core Principles
 
-## What’s Next
-
-- Diving into **React & more advanced JavaScript frameworks**
-- Building **end-to-end projects**: REST APIs, automation pipelines, dashboards
-- Collaborating on interesting open-source and community-driven projects
-
+- Write clean & maintainable code
+- Prioritize usability & accessibility
+- Learn continuously and share knowledge
 ---
 
 ## Connect with Me
@@ -86,5 +80,5 @@ Here are some standout projects from my GitHub portfolio:
 
 ---
 
-If you like my work, feel free to ⭐ star my repositories or reach out for collaboration!
+⭐ If you enjoy my work, feel free to star a repo or reach out!
 
