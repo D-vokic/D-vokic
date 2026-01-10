@@ -72,14 +72,10 @@ Currently improving in:
 
 ## GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-vokic&show_icons=true&layout=compact" height="145" />
-  <img src="https://github-readme-stats.vercel.app/api?username=d-vokic&show_icons=true" height="145" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=d-vokic)
+![GitHub followers](https://img.shields.io/github/followers/d-vokic?style=flat)
+![GitHub stars](https://img.shields.io/github/stars/d-vokic?style=flat)
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-vokic" height="145" />
-</p>
 
 ---
 
