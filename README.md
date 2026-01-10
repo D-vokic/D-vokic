@@ -1,24 +1,24 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://duskovokic.com/)
 
-# 👋 Hi there! I'm Dusko Vokic (D-vokic)
+# Dusko Vokic
 
-**Front-End Developer | Test Technician @ Lenovo (Hungary) | Former Teacher | Father, Grandpa & Lifelong Learner**
-
----
-
-## About Me
-
-- Based in Hungary, originally from Serbia
-- Currently working on modern web apps and automation tools
-- Passionate about HTML, CSS/Sass, JavaScript, React & Bash scripting
-- Degree in Theology & Hospitality, + years of teaching experience
-- Strong belief in making useful, accessible software for real people
+**Front-End Developer · Test Technician @ Lenovo (Hungary) · Former Teacher**
 
 ---
 
-## Featured Projects
+## About
 
-Here are some standout projects from my GitHub portfolio:
+- Based in Hungary, originally from Serbia  
+- Front-end developer with focus on modern, accessible web applications  
+- Currently working as a Test Technician at Lenovo (hardware and systems testing)  
+- Strong background in education, theology and hospitality  
+- Interested in practical tools: web apps, small automation utilities, and learning platforms 
+
+---
+
+## Selected Projects
+
+A few representative projects from my GitHub portfolio:
 
 | Project                              | Description                                                                                              |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
@@ -35,48 +35,62 @@ Here are some standout projects from my GitHub portfolio:
 
 ---
 
-## Tech Stack & Tools
+## Skills and Technologies
 
-### Frontend:
+**Front-End**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&utm_source=chatgpt.com) 
+- HTML5, semantic markup  
+- CSS3, responsive layouts, Flexbox, Grid  
+- Sass  
+- JavaScript (ES6+)  
+- React (components, state management, hooks)
 
-### Automation:
+**Automation and Environment**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux) 
+- Bash scripting (Linux)  
+- Working daily with Linux-based environments and tooling  
 
-### Workflow & Tools:
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash)
+*Development Workflow**
+
+- Git and GitHub  
+- VS Code  
+- Basic REST API consumption  
+- Markdown documentation  
+- Experience with WordPress and XAMPP for smaller sites and prototypes  
 
 ---
-## What I’m Learning & Building Next
+## Learning Focus
 
-- Advanced React patterns & REST APIs
-- Small end-to-end projects and dashboards
-- Automation with shell scripting
-- Open-source contributions & collaboration
----
-## Core Principles
+Currently improving in:
 
-- Write clean & maintainable code
-- Prioritize usability & accessibility
-- Learn continuously and share knowledge
+- Advanced React patterns and state management  
+- REST API integration in front-end projects  
+- Building small end-to-end applications (from UI to simple backend integration)  
+- Better testing practices and code quality in front-end codebases  
 ---
 
-## Connect with Me
+## GitHub Activity
 
-<p align="left">
-<a href="https://twitter.com/duskorsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duskorsl" height="30" width="40" /></a>
-<a href="https://fb.com/duskorsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duskorsl" height="30" width="40" /></a>
-<a href="https://instagram.com/duskorsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duskorsl" height="30" width="40" /></a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-vokic&show_icons=true&layout=compact" height="145" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d-vokic&show_icons=true" height="145" />
 </p>
 
-- Email: vokic.dusko@gmail.com
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-vokic" height="145" />
+</p>
 
 ---
 
-⭐ If you enjoy my work, feel free to star a repo or reach out!
+## Contact
+
+- Email: **vokic.dusko@gmail.com**  
+- Twitter: [@duskorsl](https://twitter.com/duskorsl)  
+- Facebook: [duskorsl](https://facebook.com/duskorsl)  
+- Instagram: [duskorsl](https://instagram.com/duskorsl)  
+
+---
+
+If you are interested in collaboration or have feedback on any of my projects, feel free to reach out or open an issue on GitHub.
 
