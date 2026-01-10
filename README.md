@@ -1,8 +1,6 @@
 ![Banner](./banner.png)
 
-# Dusko Vokic
-
-**Front-End Developer · Test Technician @ Lenovo (Hungary) · Former Teacher**
+**@ Lenovo (Hungary) · Former Teacher**
 
 ---
 
