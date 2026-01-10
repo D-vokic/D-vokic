@@ -76,7 +76,9 @@ Currently improving in:
 ![GitHub followers](https://img.shields.io/github/followers/d-vokic?style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/d-vokic?style=flat)
 
+For repositories and recent activity, visit the profile directly:
 
+[D-vokic](https://github.com/D-vokic)  
 ---
 
 ## Contact
